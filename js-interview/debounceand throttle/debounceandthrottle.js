@@ -38,7 +38,7 @@ function useDeBounce (cb, delay) {
 
 
 // throttling --> It is a technique to limit the execution of an event handler function even when this event 
-// trigers continously due to user actions.
+// triggers continuously due to user actions.
 
 
 

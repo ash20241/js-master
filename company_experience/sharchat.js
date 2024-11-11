@@ -2,6 +2,8 @@
 const temp = 1 + '1'  - '5' * 4 - '9';
 console.log(temp); 
 
+//-18
+
 // 2. 
 setTimeout(() => console.log(1),0);
 console.log(2);

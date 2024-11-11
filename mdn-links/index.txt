@@ -18,3 +18,5 @@ https://medium.com/@adarshrai3011/javascript-secrets-revealed-21-tricks-every-co
 Microsoft Interview experience :- 
 https://dev.to/dhilipkmr/software-engineer-2-ui-interview-at-microsoft-1i0b
 https://medium.com/geekculture/microsoft-software-engineer-interview-handbook-2023-80df999d286f
+
+https://dev.to/cleancodestudio/the-most-comprehensive-javascript-design-principles-guide-7i3

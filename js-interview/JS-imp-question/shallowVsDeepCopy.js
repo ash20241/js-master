@@ -34,7 +34,7 @@ A Deep copy of the object can be done using JSON.parse(JSON.stringify(object)).
 
 
 
- Diagrmatically Understanding of :- 
+ Diagrammatically Understanding of :- 
  Shallow Clone 
   original object              Cloned object
             |                      |
@@ -43,5 +43,5 @@ A Deep copy of the object can be done using JSON.parse(JSON.stringify(object)).
   Deep Copy 
   original object             cloned object
       |                            |
- Reference object             cloned refrence
+ Reference object             cloned reference
 */

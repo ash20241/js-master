@@ -10,7 +10,4 @@
             it will create a apk in this root android/app/build/outputs/bundle/release/app-release.aab
  Step 5. -  Enabling Proguard using this-   def enableProguardInReleaseBuilds = true  in android/app/build.gradle   
             Using this it will reduce the apk size of App.     
-   
-           
-
  */

@@ -26,10 +26,15 @@ https://github.com/anisurrahman072/React-Native-Advanced-Guide
 
 https://blog.codemagic.io/improve-react-native-app-performance/
 
+https://www.youtube.com/watch?v=hDviGU-57lU
+
+https://anil-gudigar.medium.com/react-native-app-performance-is-a-myth-dfe7b141b812
+https://medium.com/globant/javascript-optimization-techniques-20d8d167dadd
+https://levelup.gitconnected.com/system-design-interview-question-design-url-shortener-c3278a99fc35
 
 
+https://medium.com/@bhargavacharanreddy/amazon-sde-2-l5-interview-experience-and-tips-resources-for-interview-prep-9e7602c32176
 
-
-
+Frontend Mini Repo
+https://github.com/sadanandpai/frontend-mini-challenges/blob/main/apps/angular/src/app/challenges/tic-tac-toe/tic-tac-toe/tic-tac-toe.component.ts
 */
-
